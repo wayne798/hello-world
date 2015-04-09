@@ -1,0 +1,4 @@
+/System/Library/Extensions/InterPass3000_YTEC.kext failed to load - (libkern/kext) not loadable (reason unspecified); check the system/kernel logs for errors or try kextutil(8).
+kext file:///System/Library/Extensions/JMicronATA.kext/ is in hash exception list, allowing to load
+InterPass3000_YTEC.kext has invalid signature; omitting.
+Can't create /System/Library/Caches/com.apple.kext.caches/Startup/kernelcache.EfHk - No such file or directory.
